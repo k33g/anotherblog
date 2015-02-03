@@ -1,0 +1,15 @@
+Playing with HubPress
+=====================
+
+==First steps
+
+Je ne savais même pas que c'était possible de faire ça avec Github
+
+[source,javascript]
+----
+function hello() {
+  console.log("Hello World!")
+}
+----
+
+Tadaaaa!!!
